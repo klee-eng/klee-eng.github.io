@@ -32,9 +32,9 @@ resume-url: ./assets/resume/Kaden Lee Resume 11-29-24.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    kaden-lee-47a538257
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin:   kaden-lee-47a538257
+  github:   # https://github.com/{your url slug} 
+  stackoverflow:     # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
