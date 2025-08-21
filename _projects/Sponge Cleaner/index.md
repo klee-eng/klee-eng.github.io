@@ -15,7 +15,7 @@ main-image: /JuniorDesignProject.jpg
 ## Overview
 This sponge cleaner is a countertop kitchen device designed to prevent the growth of bacteria and mold on sponges used for washing dishes. When a sponge is placed inside the device, pressing a button activates the cleaning process. The sequence begins with a PMDC motor-driven leadscrew that compresses the device walls to squeeze water out of the sponge, followed by a fan that continues to dry the sponge for 15 minutes. The device includes an Arduino Uno, and it is constructed from 3D-printed PLA and laser-cut acrylic components.
 
-{% include image-gallery.html images="JuniorDesignCAD.jpeg, motormount.jpg" height="300" %} 
+{% include image-gallery.html images="JuniorDesignCADJPEG.jpeg, motormount.jpg" height="300" %} 
 Isometric view of final CAD assembly
 
 ---
