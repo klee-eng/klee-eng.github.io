@@ -15,10 +15,10 @@ title: Kaden Lee's Portfolio # This is what shows up in the tab of the browser
 name: Kaden Lee
 headline: Design, Automation, Robotics
 description: >- # dont remove this line. this will ignore all new lines until the next section
-Thanks for checking out my portolfio! I am currently finishing my master's degree from UCSD in mechatronics and controls,
-building on previous experience as a design engineer. Whether I am developing technologies for robot-assisted surgery,
-or engineering automated devices to support a sustainable future, I plan to pursue a career that improves human well-being
-and contributes lasting value to society.
+    Thanks for checking out my portolfio! I am currently finishing my master's degree from UCSD in mechatronics and controls,
+    building on previous experience as a design engineer. Whether I am developing technologies for robot-assisted surgery,
+    or engineering automated devices to support a sustainable future, I plan to pursue a career that improves human well-being
+    and contributes lasting value to society.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/GitHubPhoto.jpeg
