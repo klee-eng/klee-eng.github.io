@@ -9,7 +9,6 @@ skills:
 - Arduino
 - Laser Cutting
 main-image: /JuniorDesignProject.jpg
-main-image-height: 200
 
 ---
 
