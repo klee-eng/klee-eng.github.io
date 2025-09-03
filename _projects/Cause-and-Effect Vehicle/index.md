@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cause-and-Effect Vehicle
-description:  This project was made for my Senior Capstone Project, where we were given a budget of $5,000 and 9 months to design, prototype, fabricate, and test a cause-and-effect vehicle for infants and children with severe mobility impairments. As the mechanical design lead I led the design and fabrication of the chassis, motor mounts, and electrical enclosures. I also heavily contributed to the implementation and integration of the electrial system.
+description:  This project was made for my Senior Capstone Project, where my team was given a budget of $5,000 and 9 months to design, prototype, fabricate, and test a cause-and-effect vehicle for infants and children with severe mobility impairments. As the mechanical design lead I led the design and fabrication of the chassis, motor mounts, and electrical enclosures. I also heavily contributed to the implementation and integration of the electrial system.
 skills: 
 - SolidWorks
 - 3D Printing
@@ -21,18 +21,17 @@ This cause-and-effect vehicle for infants and young children is designed for use
   <img src="/images-capstone/CCS_ME_Capstone_2024_FULL.jpg" height="300" alt="Hub1">
 </div>
 
-Finished Project
 
 ---
 
 ## User Controls
 
+Because Cerebral Palsy can be so varied from case-to-case, 5 control nodes are located at various locations around the vehicle, allowing the child to operate the vehicle with their hands, feet, or head. These control nodes can be attached to either a joystick or 4 buttons depending on the needs of the child. The user can control the vehicle by pressing a button or pushing the joystick. The movement associated with each button is dependent on which input jack on the control node the button is plugged into.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-capstone/CCS_JOYSTICK.png" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_ME Capstone 2024_HUB.jpg" height="300" alt="Hub1"></div>
 
-Lead Screw Prototype and Circtuit Prototype
 
 ## Physcal Therapist Controls
 
