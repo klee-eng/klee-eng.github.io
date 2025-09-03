@@ -18,7 +18,7 @@ main-image: /CCS_ME Capstone 2024_CONRTOLLER.jpg
 This cause-and-effect vehicle for infants and young children is designed for use under the strict supervision of a licensed pediatric physical therapist. The vehicle responds to inputs from either the child’s controls or a therapist-operated controller located at the rear of the device, allowing it to move forward, backward, or spin in either direction. It is suitable for children ages 2–7 with varying levels of disability and can accommodate users weighing up to 200 lbs.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/CCS_ME Capstone 2024_FULL.jpg" height="300" alt="Hub1">
+  <img src="/CCS_ME_Capstone_2024_FULL.jpg" height="300" alt="Hub1">
 </div>
 
 Finished Project
