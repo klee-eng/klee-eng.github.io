@@ -41,15 +41,15 @@ The supervising physical therapist has two methods of controlling the vehicle: t
   <img src="/images-capstone/NEW_CONTROLLER.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_REMOTE_STOP.jpg" height="300" alt="Hub1"></div>
 
-Lead Screw Prototype and Circtuit Prototype
 
 ## Chassis
+
+The chassis is composed of two large aluminum platforms connected by four 0.5-inch steel bars, along with two aluminum motor mounts attached to the underside of the base platform. All components were manufactured in-house, with the platforms cut using a waterjet and the motor mounts machined using CNC processes. Finite element analysis (FEA) was performed on all load-bearing components to verify the safety and durability of the vehicle.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-capstone/ME CHASSIS.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_NEW_CHASSIS.jpg" height="300" alt="Hub1"></div>
 
-Final Chassis and Major Components Post-fabrication
 
 ## Motors and Battery
 
@@ -57,4 +57,3 @@ Final Chassis and Major Components Post-fabrication
   <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_ME Capstone 2024_BATTERY.jpg" height="300" alt="Hub1"></div>
 
-Motor and Battery
