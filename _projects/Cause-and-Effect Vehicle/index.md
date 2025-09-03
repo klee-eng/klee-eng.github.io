@@ -44,7 +44,7 @@ The supervising physical therapist has two methods of controlling the vehicle: t
 
 ## Chassis
 
-The chassis is composed of two large aluminum platforms connected by four 0.5-inch steel bars, along with two aluminum motor mounts attached to the underside of the base platform. All components were manufactured in-house, with the platforms cut using a waterjet and the motor mounts machined using CNC processes. Finite element analysis (FEA) was performed on all load-bearing components to verify the safety and durability of the vehicle.
+The chassis consists of two large aluminum platforms connected by four 0.5-inch steel bars, with two aluminum motor mounts attached to the underside of the base platform. All components were manufactured in-house: the platforms were cut using a waterjet, while the motor mounts were machined using CNC processes. Finite element analysis (FEA) was performed on all load-bearing components to verify safety and durability, ensuring the chassis can support the target maximum load of 200 lbs.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-capstone/ME CHASSIS.jpg" height="300" alt="Hub1">
@@ -52,6 +52,8 @@ The chassis is composed of two large aluminum platforms connected by four 0.5-in
 
 
 ## Motors and Battery
+
+The vehicle is powered by two 24V brushless DC integrated-wheel motors. For user safety, the motor speed is limited to 3.4 mph, while still providing sufficient torque to move the maximum target load of 200 lbs. Power is supplied by a 24V lithium-ion e-bike battery.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg" height="300" alt="Hub1">
