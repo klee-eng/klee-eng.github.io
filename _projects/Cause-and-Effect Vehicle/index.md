@@ -37,7 +37,7 @@ Lead Screw Prototype and Circtuit Prototype
 ## Physcal Therapist Controls
 
 <div style="display: flex; gap: 10px;">
-  <img src="/images-capstone/CCS PT CONTROLLER.jpg" height="300" alt="Hub1">
+  <img src="/images-capstone/CCS PT CONRTOLLER.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_REMOTE_STOP.jpg" height="300" alt="Hub1"></div>
 
 Lead Screw Prototype and Circtuit Prototype
