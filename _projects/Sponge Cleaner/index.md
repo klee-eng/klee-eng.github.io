@@ -26,7 +26,7 @@ Isometric view of final CAD assembly
 ## Prototypes
 Major breakthroughs in the project were made following the creation of the leadscrew prototype and the circuit prototype. Due to budget constraints, rather than buying a lead screw, a custom lead screw was created using a modified screw and a skateboard bearing. The compressive wall was then glued to one end of the screw and a timing belt pulley was glued to the other end. The lead screw could then be driven by a belt that connected the pulley on the screw to the pulley on the motor.
 
-The second major prototype for this project was the circuit prototype which integrated all of the major electrical components of our system. These components included a PMDC motor, a motor driver, a DC fan, an Arduino Uno, and a 6V power suppy. This protype was important for refining our code, and ensuring the drying sequence would function as desired.
+The second major prototype for this project was the circuit prototype which integrated all of the major electrical components of our system. These components included a PMDC motor, a motor driver, a DC fan, an Arduino Uno, and a 6V power suppy. This protype was important for refining our code, and ensuring the drying sequence functioned as desired.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-final/JuniorDesignPrototypes.jpg" height="300" alt="Hub1">
