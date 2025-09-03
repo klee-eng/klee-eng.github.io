@@ -18,18 +18,42 @@ main-image: /CCS_ME Capstone 2024_CONRTOLLER.jpg
 This cause-and-effect vehicle for infants and young children is designed for use under the strict supervision of a licensed pediatric physical therapist. The vehicle responds to inputs from either the child’s controls or a therapist-operated controller located at the rear of the device, allowing it to move forward, backward, or spin in either direction. It is suitable for children ages 2–7 with varying levels of disability and can accommodate users weighing up to 200 lbs.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/CCS_ME Capstone 2024_CONRTOLLER.jpg" height="300" alt="Hub1">
+  <img src="/CCS_ME Capstone 2024_FULL.jpg" height="300" alt="Hub1">
 </div>
 
-Isometric view of final CAD assembly
+Finished Project
 
 ---
 
-## Prototypes
+## User Controls
 
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-final/JuniorDesignPrototypes.jpg" height="300" alt="Hub1">
-</div>
+  <img src="/images-capstone/CCS_ME Capstone 2024_HUB.jpg" height="300" alt="Hub1"></div>
 
 Lead Screw Prototype and Circtuit Prototype
+
+## Physcal Therapist Controls
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images-capstone/CCS PT CONTROLLER.jpg" height="300" alt="Hub1">
+  <img src="/images-capstone/CCS_REMOTE_STOP.jpg" height="300" alt="Hub1"></div>
+
+Lead Screw Prototype and Circtuit Prototype
+
+## Chassis
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images-capstone/ME CHASSIS.jpg" height="300" alt="Hub1">
+  <img src="/images-capstone/CCS_NEW_CHASSIS.jpg" height="300" alt="Hub1"></div>
+
+Final Chassis and Major Components Post-fabrication
+
+## Motors and Battery
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg" height="300" alt="Hub1">
+  <img src="/images-capstone/CCS_ME Capstone 2024_BATTERY.jpg" height="300" alt="Hub1"></div>
+
+Motor and Battery
