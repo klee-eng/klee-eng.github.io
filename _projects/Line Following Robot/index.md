@@ -8,8 +8,7 @@ skills:
 - Rapid Prototyping
 - Arduino
 - Laser Cutting
-main-image: /LINE_FOLLOWER.jpg
-
+main-image: /LINE_FOLLOWER.JPG
 ---
 
 ## Overview
