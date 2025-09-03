@@ -8,7 +8,7 @@ skills:
 - Rapid Prototyping
 - Arduino
 - Laser Cutting
-main-image: /BLADE SET ASM LAYOUT.JPG
+main-image: /FOODTOOLS.jpg
 ---
 
 ## Overview
