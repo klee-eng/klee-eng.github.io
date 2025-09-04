@@ -17,14 +17,12 @@ main-image: /FOODTOOLS.jpg
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/4-UP CARDBOARD HOLDERBOARD LAYOUT.PNG" height="300" alt="Hub1">
-  <img src="/images-foodtools/CHEESEHEAD HEAD-BASE ASM.JPG" height="300" alt="Hub1">
-</div>
+  <img src="/images-foodtools/CHEESEHEAD HEAD-BASE ASM.JPG" height="300" alt="Hub1"></div>
+
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/csrsdialpalre.PNG" height="300" alt="Hub1">
-  <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1">
-</div>
-
+  <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1"></div>
 
 ---
 
