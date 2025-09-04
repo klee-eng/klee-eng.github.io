@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview
 <iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width="640" height="360" allow="autoplay"></iframe>
 
 
-Isometric view of final CAD assembly
+<p><i>Line-following robot navigating obstacle course.</i></p>
 
 ---
 
