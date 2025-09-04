@@ -14,17 +14,21 @@ main-image: /FOODTOOLS.jpg
 
 ## Design
 
+This section highlights custom tooling designs I created at FoodTools. Each piece was developed to meet specific customer needs, modeled in SolidWorks, and fabricated with machinists and assembly teams to ensure accuracy and reliability. The designs ranged from product holders to blade sets and wire-cutting harps.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/4-UP CARDBOARD HOLDERBOARD LAYOUT.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/CHEESEHEAD HEAD-BASE ASM.JPG" height="300" alt="Hub1"></div>
 
+  <p><i>Product holder designed to hold four products simultaneously, and Cutting Harp with Base.</i></p>
+
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/csrsdialpalre.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1"></div>
-
+Two product holders, the left-most holder is meant to hold round products and the right-most is designed to hold large rectangular products
 ---
+<p><i>Two custom product holders: the left holds round products, while the right accommodates large rectangular products.</i></p>
 
 ## CAM
 
