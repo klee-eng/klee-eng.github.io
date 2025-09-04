@@ -21,7 +21,7 @@ The line-following prototype was the most critical component of the final robot 
   <img src="/images-line_follower/LINE_FOLLOWER.JPG" height="300" alt="Hub1">
 </div>
 
-<p><i>Final line follower prototype.</i></p>
+<p><i>Final line-following robot prototype.</i></p>
 
 ---
 
