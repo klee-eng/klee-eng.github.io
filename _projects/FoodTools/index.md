@@ -35,8 +35,8 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/images-foodtools/csrsdialpalre.PNG" height="300" alt="Hub1">
-  <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1"></div>
+  <img src="/images-foodtools/DialPlateSim.PNG" height="300" alt="Hub1">
+  <img src="/images-foodtools/TurnTableSim.PNG" height="300" alt="Hub1"></div>
 
 Lead Screw Prototype and Circtuit Prototype
 
