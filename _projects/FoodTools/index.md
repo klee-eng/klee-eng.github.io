@@ -20,14 +20,14 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
   <img src="/images-foodtools/4-UP CARDBOARD HOLDERBOARD LAYOUT.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/CHEESEHEAD HEAD-BASE ASM.JPG" height="300" alt="Hub1"></div>
 
-  <p><i>Product holder designed to hold four products simultaneously, and Cutting Harp with Base.</i></p>
+  <p><i>Product holder designed to hold four products simultaneously (left) and cutting harp with base (right).</i></p>
 
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/csrsdialpalre.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/BLADE SETASM LAYOUT.JPG" height="300" alt="Hub1"></div>
 
-<p><i>Two custom product holders: one for round products (left) and one for large rectangular products (right).</i></p>
+<p><i>Custom product holder for round products (left) and custom blade set assembly (right).</i></p>
 
 ---
 
