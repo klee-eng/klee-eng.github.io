@@ -19,7 +19,7 @@ This sponge cleaner is a countertop kitchen device designed to prevent the growt
   <img src="/images-final/JuniorDesignCAD.jpeg" height="300" alt="Hub1">
 </div>
 
-
+<p><i>Final CAD model of project.</i></p>
 ---
 
 ## Prototypes
@@ -31,4 +31,4 @@ The second major prototype for this project was the circuit prototype which inte
   <img src="/images-final/JuniorDesignPrototypes.jpg" height="300" alt="Hub1">
 </div>
 
-
+<p><i>Essential prototypes: Lead screw prototype (left) and circuit prototype (right).</i></p>
