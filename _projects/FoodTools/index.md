@@ -9,7 +9,7 @@ skills:
 - Drafting
 - Manufacturing
 - Interdisciplinary Collaboration
-main-image: /ftMach2.jpg
+main-image: /ftMach3.jpg
 ---
 
 ## Design
