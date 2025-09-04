@@ -1,33 +1,29 @@
 ---
 layout: post
 title: Line Follower Robot
-description:  This project was made for my robotics class, where we were given a budget of $5,000 and 9 months to design, prototype, fabricate, and test a device. I heavily contributed to both the electrical and mechanical components, including handling motor integration, circuit design, Arduino programming, lead screw design, and housing design.
+description:  This project was made for my robotics class, where we were given a series of tasks that our robot needed to complete every 2 weeks. These assignments were very open and up-to-interpretation. The robots were to be made from legos and various sensors and actuators that were provided by the instructor. The culmination of these assignemts was to develop a robot rat that could navigate a game board and gather "cheese" that was placed around the board.
 skills: 
-- SolidWorks
-- 3D Printing
 - Rapid Prototyping
 - Arduino
-- Laser Cutting
 main-image: /LINE_FOLLOWER.JPG
 ---
 
-## Overview
+## Line-Following Demo
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="/CCS_ME Capstone 2024_CONRTOLLER.jpg" height="300" alt="Hub1">
-</div>
+https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview
+
+<iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width="640" height="360" allow="autoplay"></iframe>
+
 
 Isometric view of final CAD assembly
 
 ---
 
-## Prototypes
+## Robot Rat
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="/images-final/JuniorDesignPrototypes.jpg" height="300" alt="Hub1">
-</div>
+
 
 Lead Screw Prototype and Circtuit Prototype
 
