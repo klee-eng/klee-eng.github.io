@@ -5,7 +5,7 @@ description:  This project was completed for my robotics class, where we were as
 skills: 
 - Rapid Prototyping
 - Arduino
-main-image: /LINE_FOLLOWER.JPG
+main-image: /robotRatProto.JPG
 ---
 
 ## Line-Following Demo
