@@ -28,7 +28,6 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
   <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1"></div>
 
 <p><i>Two custom product holders: the left holds round products, while the right accommodates large rectangular products.</i></p>
-
 ---
 
 
