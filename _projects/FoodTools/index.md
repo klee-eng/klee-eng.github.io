@@ -29,7 +29,7 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
 
 <p><i>Two custom product holders: one for round products (left) and one for large rectangular products (right).</i></p>
 
-
+---
 
 ## CAM
 
@@ -40,6 +40,8 @@ When I started in this position, a need for new CNC programs was identified afte
   <img src="/images-foodtools/TurnTableSim.PNG" height="300" alt="Hub1"></div>
 
 <p><i>CAM simulations for two parts: a round dial plate (left) and a turntable (right).</i></p>
+
+---
 
 ## Electrical Boards
 
