@@ -1,17 +1,18 @@
 ---
 layout: post
 title: FoodTools
-description:  This project was made for my Senior Capstone Project, where we were given a budget of $5,000 and 9 months to design, prototype, fabricate, and test a device. I heavily contributed to both the electrical and mechanical components, including handling motor integration, circuit design, Arduino programming, lead screw design, and housing design.
+description:  As a Design Engineer at FoodTools, I designed custom tooling for automated portioning equipment, collaborating closely with customers, sales, machinists, and assembly teams to ensure manufacturability and optimal performance. My workflow encompassed 3D CAD modeling in SolidWorks, producing detailed engineering drawings, writing manufacturing plans, generating G-code with Fusion 360 Manufacturing, wiring electrical boards, and performing troubleshooting and final design verification.
 skills: 
 - SolidWorks
-- 3D Printing
-- Rapid Prototyping
-- Arduino
-- Laser Cutting
+- Fusion 360
+- CAM
+- Drafting
+- Manufacturing
+- Interdisciplinary Collaboration
 main-image: /FOODTOOLS.jpg
 ---
 
-## Overview
+## Design
 
 
 <div style="display: flex; gap: 10px;">
@@ -22,7 +23,7 @@ Isometric view of final CAD assembly
 
 ---
 
-## Prototypes
+## CAM
 
 
 <div style="display: flex; gap: 10px;">
@@ -31,3 +32,8 @@ Isometric view of final CAD assembly
 
 Lead Screw Prototype and Circtuit Prototype
 
+## Electrical Boards
+
+<div style="display: flex; gap: 10px;">
+  <img src="/images-final/JuniorDesignPrototypes.jpg" height="300" alt="Hub1">
+</div>
