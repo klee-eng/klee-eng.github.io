@@ -26,9 +26,10 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/csrsdialpalre.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/DIALpLATEASMpIC.PNG" height="300" alt="Hub1"></div>
-Two product holders, the left-most holder is meant to hold round products and the right-most is designed to hold large rectangular products
----
+
 <p><i>Two custom product holders: the left holds round products, while the right accommodates large rectangular products.</i></p>
+---
+
 
 ## CAM
 
