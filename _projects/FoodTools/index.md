@@ -33,12 +33,13 @@ This section highlights custom tooling designs I created at FoodTools. Each piec
 
 ## CAM
 
+When I started in this position, a need for new CNC programs was identified after a machine containing older programs broke. I took on the challenge and taught myself Fusion 360 Manufacturing to replace these programs as needed. In addition to updating existing programs, I developed CNC programs for intricate, custom parts with complex features, including curved profiles that required advanced machining operations. This work improved both efficiency and precision in the manufacturing process of our parts.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/DialPlateSim.PNG" height="300" alt="Hub1">
   <img src="/images-foodtools/TurnTableSim.PNG" height="300" alt="Hub1"></div>
 
-Lead Screw Prototype and Circtuit Prototype
+<p><i>CAM simulations for two parts.</i></p>
 
 ## Electrical Boards
 
