@@ -20,6 +20,7 @@ This sponge cleaner is a countertop kitchen device designed to prevent the growt
 </div>
 
 <p><i>Final CAD model of project.</i></p>
+
 ---
 
 ## Prototypes
