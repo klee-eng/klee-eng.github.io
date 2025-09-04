@@ -21,6 +21,7 @@ This cause-and-effect vehicle for infants and young children is designed for use
   <img src="/images-capstone/CCS_ME_Capstone_2024_FULL.jpg" height="300" alt="Hub1">
 </div>
 
+<p><i>Image of completed cause-and-effect vehicle.</i></p>
 
 ---
 
@@ -41,6 +42,9 @@ The supervising physical therapist has two methods of controlling the vehicle: t
   <img src="/images-capstone/NEW_CONTROLLER.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_REMOTE_STOP.jpg" height="300" alt="Hub1"></div>
 
+<p><i>Two methods of physical therapist controls: main controller (left) and remote stop button (right).</i></p>
+
+---
 
 ## Chassis
 
@@ -50,6 +54,9 @@ The chassis consists of two large aluminum platforms connected by four 0.5-inch 
   <img src="/images-capstone/ME CHASSIS.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_NEW_CHASSIS.jpg" height="300" alt="Hub1"></div>
 
+<p><i>Final chassis design: completed chassis assembly (left) and major components after waterjet cutting (right).</i></p>
+
+---
 
 ## Motors and Battery
 
@@ -59,3 +66,4 @@ The vehicle is powered by two 24V brushless DC integrated-wheel motors. For user
   <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg" height="300" alt="Hub1">
   <img src="/images-capstone/CCS_ME Capstone 2024_BATTERY.jpg" height="300" alt="Hub1"></div>
 
+<p><i>Locations of motors and battery: motors mounted underneath the chassis (left) and e-bike battery slides in and out of the connector beneath the seat (right).</i></p>
