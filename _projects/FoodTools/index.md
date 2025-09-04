@@ -16,10 +16,15 @@ main-image: /FOODTOOLS.jpg
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="/CCS_ME Capstone 2024_CONRTOLLER.jpg" height="300" alt="Hub1">
+  <img src="/images-capstone/4-UP CARDBOARD HOLDERBOARD LAYOUT.PNG" height="300" alt="Hub1">
+  <img src="/images-capstone/CHEESEHEAD HEAD-BASE ASM.JPG" height="300" alt="Hub1">
 </div>
 
-Isometric view of final CAD assembly
+<div style="display: flex; gap: 10px;">
+  <img src="/images-capstone/csrsdialpalre.PNG" height="300" alt="Hub1">
+  <img src="/images-capstone/DIALpLATEASMpIC.PNG" height="300" alt="Hub1">
+</div>
+
 
 ---
 
