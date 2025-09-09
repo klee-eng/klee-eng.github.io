@@ -42,7 +42,7 @@ The chassis consists of two large aluminum platforms connected by four 0.5-inch 
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-arm/arm_rqt_graph.jpg" height="300" alt="Hub1">
-  <img src="/images-capstone/CCS_NEW_CHASSIS.jpg" height="300" alt="Hub1"></div>
+</div>
 
 <p><i>Final chassis design: completed chassis assembly (left) and major components after waterjet cutting (right).</i></p>
 
