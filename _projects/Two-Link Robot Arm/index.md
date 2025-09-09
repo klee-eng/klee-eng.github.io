@@ -47,8 +47,3 @@ The chassis consists of two large aluminum platforms connected by four 0.5-inch 
 <p><i>Final chassis design: completed chassis assembly (left) and major components after waterjet cutting (right).</i></p>
 
 ---
-
-  <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg" height="300" alt="Hub1">
-  <img src="/images-capstone/CCS_ME Capstone 2024_BATTERY.jpg" height="300" alt="Hub1"></div>
-
-<p><i>Locations of motors and battery: motors mounted underneath the chassis (left) and e-bike battery slides in and out of the connector beneath the seat (right).</i></p>
