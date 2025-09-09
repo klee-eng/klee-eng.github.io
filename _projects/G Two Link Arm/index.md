@@ -25,7 +25,7 @@ All mechanical components were designed in Fusion 360 and 3D-printed using PLA. 
   <img src="/images-arm/front_active.jpg" height="300" alt="Hub1">
   <img src="/images-arm/circuit.jpg" height="300" alt="Hub1"></div>
 
-<p><i>Front (left) and back (right) of complete prototype.</i></p>
+<p><i>Front (left) and back (right) of prototype.</i></p>
 
 ## Camera
 
