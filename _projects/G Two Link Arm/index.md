@@ -17,6 +17,7 @@ main-image: /cropped_front.jpg
 ---
 
 ## Design Overview
+
 All mechanical components were designed in Fusion 360 and 3D-printed using PLA. The system integrates an Arduino Uno, a 16-channel servo driver, a USB camera, and two servo motors: a 180° high-torque motor and a 360° high-speed motor with Hall effect sensor feedback. The continuous-rotation servo requires PID control through the Arduino to achieve accurate positioning.
 
 
@@ -24,16 +25,17 @@ All mechanical components were designed in Fusion 360 and 3D-printed using PLA. 
   <img src="/images-arm/front_active.jpg" height="300" alt="Hub1">
   <img src="/images-arm/circuit.jpg" height="300" alt="Hub1"></div>
 
+<p><i>Front (left) and back (right) of complete prototype.</i></p>
 
-## Camera Mount
+## Camera
 
-The supervising physical therapist has two methods of controlling the vehicle: the main controller mounted at the rear and a remote stop button. Both inputs override the child’s controls to ensure safety. The main controller is equipped with a two-axis potentiometer joystick for directional movement, two potentiometers to adjust the speed and duration of the child’s inputs, four mode buttons to define the types of movement permitted, and an emergency stop button. It also houses an Arduino Mega and a custom PCB for system control. The remote stop button, contained in a separate enclosure, activates the vehicle’s stop mode, during which the brakes engage and the motors cease receiving inputs. The remote operates reliably within a range of approximately 10 feet.
+This project provided an opportunity to integrate a camera into a robotic system using Python. The camera detects hands through the OpenCV and MediaPipe libraries, and computes the hand’s position relative to the center of the frame. This information is then used to calculate the motion required for the arm to center the hand. The camera is mounted on a custom-designed, detachable mount that uses neodymium magnets for easy attachment to the arm.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-arm/camera_mount.jpg" height="300" alt="Hub1">
   <img src="/images-arm/camera_close_up.jpg" height="300" alt="Hub1"></div>
 
-<p><i>Two methods of physical therapist controls: main controller (left) and remote stop button (right).</i></p>
+<p><i>Detached (left) and attached (right) camera mount.</i></p>
 
 ---
 
