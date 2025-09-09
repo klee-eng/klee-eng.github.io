@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Two-Link Robot Arm
-description:  This project was made for my Senior Capstone Project, where my team was given a budget of $5,000 and 9 months to design, prototype, fabricate, and test a cause-and-effect vehicle for infants and children with severe mobility impairments. As the mechanical design lead I led the design and fabrication of the chassis, motor mounts, and electrical enclosures. I also heavily contributed to the implementation and integration of the electrial system.
+description:  This project is a two-link robotic arm equipped with a camera at the end effector. The arm tracks and follows a human hand in real time. I developed this project as a hobby after graduating from UCSB to practice and extend my undergraduate engineering skills, while also gaining hands-on experience with ROS 2.
+
 skills: 
 - Fusion360
 - 3D Printing
@@ -16,7 +17,7 @@ main-image: /cropped_front.jpg
 ---
 
 ## Design Overview
-This cause-and-effect vehicle for infants and young children is designed for use under the strict supervision of a licensed pediatric physical therapist. The vehicle responds to inputs from either the child’s controls or a therapist-operated controller located at the rear of the device, allowing it to move forward, backward, or spin in either direction. It is suitable for children ages 2–7 with varying levels of disability and can accommodate users weighing up to 200 lbs.
+All mechanical components were designed in Fusion 360 and 3D-printed using PLA. The system integrates an Arduino Uno, a 16-channel servo driver, a USB camera, and two servo motors: a 180° high-torque motor and a 360° high-speed motor with Hall effect sensor feedback. The continuous-rotation servo requires PID control through the Arduino to achieve accurate positioning.
 
 
 <div style="display: flex; gap: 10px;">
@@ -41,7 +42,7 @@ The supervising physical therapist has two methods of controlling the vehicle: t
 The chassis consists of two large aluminum platforms connected by four 0.5-inch steel bars, with two aluminum motor mounts attached to the underside of the base platform. All components were manufactured in-house: the platforms were cut using a waterjet, while the motor mounts were machined using CNC processes. Finite element analysis (FEA) was performed on all load-bearing components to verify safety and durability, ensuring the chassis can support the target maximum load of 200 lbs.
 
 <div style="display: flex; gap: 10px;">
-  <img src="/images-arm/arm_rqt_graph.jpg" height="300" alt="Hub1">
+  <img src="/images-arm/arm_rqt_graph.jpg" height="400" alt="Hub1">
 </div>
 
 <p><i>Final chassis design: completed chassis assembly (left) and major components after waterjet cutting (right).</i></p>
