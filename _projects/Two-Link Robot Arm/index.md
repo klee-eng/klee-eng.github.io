@@ -11,7 +11,7 @@ skills:
 - ROS2
 - Python
 
-main-image: /front.jpg
+main-image: /cropped_front.jpg
 
 ---
 
