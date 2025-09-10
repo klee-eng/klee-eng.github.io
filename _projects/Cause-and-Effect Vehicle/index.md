@@ -42,7 +42,7 @@ The supervising physical therapist has two methods of controlling the vehicle: t
 
 <div class="image-row">
   <img src="/images-capstone/NEW_CONTROLLER.jpg" alt="Hub1">
-  <img src="/images-capstone/CCS_REMOTE_STOP.jpg" alt="Hub2">
+  <img src="/images-capstone/CCS_REMOTE_STOP_ROT.jpg" alt="Hub2">
 </div>
 
 <p><i>Two methods of physical therapist controls: main controller (left) and remote stop button (right).</i></p>
