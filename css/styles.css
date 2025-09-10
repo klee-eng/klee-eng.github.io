@@ -950,16 +950,16 @@ footer p {
 
 .image-row {
   display: flex;
-  flex-wrap: nowrap;
-  gap: 10px;
-  justify-content: flex-start;
-  align-items: flex-start; /* aligns images by top */
-  max-width: 100%;         /* fits container */
+  flex-wrap: wrap;        /* allow images to wrap to next line */
+  gap: 10px;              /* spacing between images */
+  justify-content: flex-start; /* align with text container */
+  align-items: flex-start;      /* align tops of images */
+  max-width: 100%;        /* fit within container */
 }
 
 .image-row img {
-  height: 250px;       /* fixed height for all images */
-  width: auto;         /* width scales to preserve aspect ratio */
+  height: 250px;          /* fixed height for all images */
+  width: auto;            /* width adjusts to maintain aspect ratio */
   object-fit: contain;
   display: block;
 }
