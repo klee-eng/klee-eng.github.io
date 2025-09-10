@@ -953,7 +953,7 @@ footer p {
   flex-direction: row;   /* force side by side */
   flex-wrap: nowrap;     /* don't let them stack */
   gap: 10px;
-  justify-content: center;
+  justify-content: left;
 }
 
 .image-row img {
