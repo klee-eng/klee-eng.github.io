@@ -957,7 +957,7 @@ footer p {
 }
 
 .image-row img {
-  width: 50%;            /* each takes half the row */
-  height: auto;
+  width: auto;            /* each takes half the row */
+  height: 10vh;
   object-fit: contain;
 }
