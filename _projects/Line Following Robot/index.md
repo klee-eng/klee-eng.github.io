@@ -19,7 +19,7 @@ The line-following prototype was the most critical component of the final robot 
 <p><i>Final line-following robot prototype.</i></p>
 
 
-<iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width=50% height=auto allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width="50%" height="auto" allow="autoplay"></iframe>
 
 
 <p><i>Line-following robot navigating obstacle course.</i></p>
