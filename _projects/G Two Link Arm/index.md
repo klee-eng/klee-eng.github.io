@@ -45,9 +45,8 @@ The project involved integrating a camera into the robotic system using Python. 
 
 The software system was developed in ROS 2 using Python and consists of three nodes: a camera node that publishes hand position data, a kinematics node that calculates the joint angles required to move the arm, and an Arduino communication node that manages serial communication with the Arduino to control the servos. Nodes communicate through ROS 2 topics, and the system architecture is shown in the rqt_graph screenshot below.
 
-
-<div class="image-row">
-  <img src="/images-arm/arm_rqt_graph.jpg" alt="Hub1">
+<div style="display: flex; gap: 10px;">
+  <img src="/images-arm/arm_rqt_graph.jpg" height="auto" width="100%" alt="Hub1">
 </div>
 
 <p><i>Rqt_graph of ROS2 nodes.</i></p>
