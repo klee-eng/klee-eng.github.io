@@ -27,6 +27,12 @@ All mechanical components were designed in Fusion 360 and 3D-printed using PLA. 
 
 <p><i>Front (left) and back (right) of prototype.</i></p>
 
+<div class="image-row">
+  <img src="/images-arm/front_active.jpg" alt="Hub1">
+  <img src="/images-arm/circuit.jpg" alt="Hub2">
+</div>
+
+
 ## Camera
 
 The project involved integrating a camera into the robotic system using Python. The camera detects hands through the OpenCV and MediaPipe libraries, and computes the hand’s position relative to the center of the frame. This information is then used to calculate the motion required for the arm to center the hand. The camera is mounted on a custom-designed, detachable mount that uses neodymium magnets for easy attachment to the arm.
