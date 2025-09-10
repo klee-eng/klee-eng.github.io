@@ -958,6 +958,6 @@ footer p {
 
 .image-row img {
   width: auto;            /* each takes half the row */
-  height: 10vh;
+  height: 20vh;
   object-fit: contain;
 }
