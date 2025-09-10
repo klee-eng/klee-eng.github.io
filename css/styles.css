@@ -950,13 +950,14 @@ footer p {
 
 .image-row {
   display: flex;
+  flex-direction: row;   /* force side by side */
+  flex-wrap: nowrap;     /* don't let them stack */
   gap: 10px;
   justify-content: center;
 }
 
 .image-row img {
-  max-width: 100%;
+  width: 50%;            /* each takes half the row */
   height: auto;
-  flex: 1 1 45%;   /* each image takes ~45% of the row */
   object-fit: contain;
 }
