@@ -767,6 +767,20 @@ footer p {
         height: 500px; 
         margin: 0 auto;
     }
+    
+    .image-cap {
+      display: flex;
+      flex-direction: row;   /* force side by side */
+      flex-wrap: nowrap;     /* don't let them stack */
+      gap: 10px;
+      justify-content: left;
+    }
+
+    .image-cap img {
+      width: auto;            /* each takes half the row */
+      height: 300;
+      object-fit: contain;
+    }
 
 
 }
@@ -943,6 +957,20 @@ footer p {
     .post-view .content {
         padding: 5px;
       }
+  
+    .image-cap {
+      display: flex;
+      flex-direction: row;   /* force side by side */
+      flex-wrap: nowrap;     /* don't let them stack */
+      gap: 10px;
+      justify-content: left;
+    }
+
+    .image-cap img {
+      width: auto;            /* each takes half the row */
+      height: 150;
+      object-fit: contain;
+    }
   
 
       
