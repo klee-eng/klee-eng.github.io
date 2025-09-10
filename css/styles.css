@@ -951,13 +951,12 @@ footer p {
 .image-row {
   display: flex;
   gap: 10px;
-  flex-wrap: wrap;       /* allows wrapping on narrow screens */
   justify-content: center;
 }
 
 .image-row img {
   max-width: 100%;
   height: auto;
-  flex: 1 1 45%;         /* flex-grow, flex-shrink, flex-basis */
+  flex: 1 1 45%;   /* each image takes ~45% of the row */
   object-fit: contain;
 }
