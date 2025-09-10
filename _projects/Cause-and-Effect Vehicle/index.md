@@ -29,7 +29,7 @@ This cause-and-effect vehicle for infants and young children is designed for use
 
 Because cerebral palsy can present differently from case to case, five control nodes are positioned at various locations around the vehicle, enabling the child to operate it with their hands, feet, or head. Each control node can be fitted with either a joystick or a set of four buttons, depending on the child’s needs. The vehicle is operated by pressing a button or moving the joystick. The movement associated with each button is determined by the input jack on the control node to which the button is connected.
 
-<div class="image-cap">
+<div class="image-row">
   <img src="/images-capstone/CCS_JOYSTICK.png" alt="Hub1">
   <img src="/images-capstone/CCS_ME Capstone 2024_HUB.jpg" alt="Hub2">
 </div>
@@ -40,7 +40,7 @@ Because cerebral palsy can present differently from case to case, five control n
 
 The supervising physical therapist has two methods of controlling the vehicle: the main controller mounted at the rear and a remote stop button. Both inputs override the child’s controls to ensure safety. The main controller is equipped with a two-axis potentiometer joystick for directional movement, two potentiometers to adjust the speed and duration of the child’s inputs, four mode buttons to define the types of movement permitted, and an emergency stop button. It also houses an Arduino Mega and a custom PCB for system control. The remote stop button, contained in a separate enclosure, activates the vehicle’s stop mode, during which the brakes engage and the motors cease receiving inputs. The remote operates reliably within a range of approximately 10 feet.
 
-<div class="image-cap">
+<div class="image-row">
   <img src="/images-capstone/NEW_CONTROLLER.jpg" alt="Hub1">
   <img src="/images-capstone/CCS_REMOTE_STOP.jpg" alt="Hub2">
 </div>
@@ -53,7 +53,7 @@ The supervising physical therapist has two methods of controlling the vehicle: t
 
 The chassis consists of two large aluminum platforms connected by four 0.5-inch steel bars, with two aluminum motor mounts attached to the underside of the base platform. All components were manufactured in-house: the platforms were cut using a waterjet, while the motor mounts were machined using CNC processes. Finite element analysis (FEA) was performed on all load-bearing components to verify safety and durability, ensuring the chassis can support the target maximum load of 200 lbs.
 
-<div class="image-cap">
+<div class="image-row">
   <img src="/images-capstone/ME CHASSIS.jpg"  alt="Hub1">
   <img src="/images-capstone/CCS_NEW_CHASSIS.jpg" alt="Hub2">
 </div>
@@ -66,7 +66,7 @@ The chassis consists of two large aluminum platforms connected by four 0.5-inch 
 
 The vehicle is powered by two 24V brushless DC integrated-wheel motors. For user safety, the motor speed is limited to 3.4 mph, while still providing sufficient torque to move the maximum target load of 200 lbs. Power is supplied by a 24V lithium-ion e-bike battery.
 
-<div class="image-cap">
+<div class="image-row">
   <img src="/images-capstone/CCS_ME 2024 MOTORS.jpg"  alt="Hub1">
   <img src="/images-capstone/CCS_ME Capstone 2024_BATTERY.jpg" alt="Hub2">
 </div>
