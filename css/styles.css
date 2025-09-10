@@ -943,7 +943,21 @@ footer p {
     .post-view .content {
         padding: 5px;
       }
+  
 
       
 }
 
+.image-row {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;       /* allows wrapping on narrow screens */
+  justify-content: center;
+}
+
+.image-row img {
+  max-width: 100%;
+  height: auto;
+  flex: 1 1 45%;         /* flex-grow, flex-shrink, flex-basis */
+  object-fit: contain;
+}
