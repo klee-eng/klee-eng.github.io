@@ -952,14 +952,14 @@ footer p {
   display: flex;
   flex-direction: row;
   flex-wrap: nowrap;   /* side by side */
-  gap: 10px;           /* space between images */
+  gap: 10px;
   justify-content: center;
-  align-items: center; /* line up nicely */
+  align-items: flex-start;
 }
 
 .image-row img {
-  height: 30vh;       /* 30% of the viewport height */
-  width: auto;
-  object-fit: contain;
+  height: auto;           /* natural height */
+  max-height: 40vw;       /* scales with viewport width */
+  width: auto;            /* keep aspect ratio */
+  object-fit: contain;    /* keep full image visible */
 }
-
