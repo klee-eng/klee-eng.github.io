@@ -19,7 +19,7 @@ The line-following prototype was the most critical component of the final robot 
 <p><i>Final line-following robot prototype.</i></p>
 
 
-<iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width="50%" height="auto" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1x24ytXH3fziPBZL2PXexjRwiDdhAmlvG/preview" width="100%" height="auto" allow="autoplay"></iframe>
 
 
 <p><i>Line-following robot navigating obstacle course.</i></p>
@@ -32,7 +32,7 @@ The line-following prototype was the most critical component of the final robot 
 The final robot rat prototype successfully collected “cheese” (foam blocks) from around the game board. Building on the line-following robot’s navigation capabilities, the robot rat detected cheese using a range sensor and captured the blocks with a servo-actuated gate mechanism. As with the line-following robot, if I were to continue this project, I would first focus on creating a more robust mechanical design to improve reliability and performance.
 
 
-<iframe src="https://drive.google.com/file/d/1EhwR4G64E60hUWAi3DpfUu0hLZ_4DCMe/preview" width="640" height="360" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1EhwR4G64E60hUWAi3DpfUu0hLZ_4DCMe/preview" width="100%" height="auto" allow="autoplay"></iframe>
 
 
 <p><i>Final robot rat prototype gathering foam blocks.</i></p>
