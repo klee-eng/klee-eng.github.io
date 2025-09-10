@@ -980,6 +980,7 @@ footer p {
   flex-wrap: nowrap;     /* don't let them stack */
   gap: 10px;
   justify-content: left;
+  align-items: flex-end;
 }
 
 .image-row img {
