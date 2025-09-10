@@ -34,6 +34,7 @@ Because cerebral palsy can present differently from case to case, five control n
   <img src="/images-capstone/CCS_ME Capstone 2024_HUB.jpg" alt="Hub2">
 </div>
 
+<p><i>User controls with interchangeable joystick (left) and user control hub (right).</i></p>
 
 ## Physcal Therapist Controls
 
