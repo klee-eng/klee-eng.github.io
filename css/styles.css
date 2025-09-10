@@ -777,7 +777,6 @@ footer p {
     }
 
     .image-cap img {
-      width: auto;            /* each takes half the row */
       height: 300;
       object-fit: contain;
     }
@@ -967,7 +966,6 @@ footer p {
     }
 
     .image-cap img {
-      width: auto;            /* each takes half the row */
       height: 150;
       object-fit: contain;
     }
