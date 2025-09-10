@@ -12,8 +12,8 @@ main-image: /robotRatProto.jpg
 
 The line-following prototype was the most critical component of the final robot rat project. It utilized reflective sensors, two PMDC motors, and a PID controller to navigate the game board. The robot successfully completed the designated route to reach the opposite side of the board. However, its performance was limited by the mechanical design. While LEGO components can be robust, the pieces used were somewhat aged, and the design was rushed due to time constraints. If I were to continue this project, I would prioritize creating a more durable mechanical design before further refining the line-following capabilities. Since then, my mechanical design skills have significantly improved, and I am confident in my ability to develop a more robust and reliable design.
 
-<div class="image-row">
-  <img src="/images-line_follower/LINE_FOLLOWER.JPG" alt="Hub1">
+<div style="display: flex; gap: 10px;">
+  <img src="/images-line_follower/LINE_FOLLOWER.JPG" height="auto" width="100%" alt="Hub1">
 </div>
 
 <p><i>Final line-following robot prototype.</i></p>
