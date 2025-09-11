@@ -21,7 +21,7 @@ This cause-and-effect vehicle for infants and young children is designed for use
   <img src="/images-capstone/CCS_ME_Capstone_2024_FULL.jpg" height="auto" width="100%" alt="Hub1">
 </div>
 
-<p><i>Image of completed cause-and-effect vehicle.</i></p>
+<p><i>Completed cause-and-effect vehicle.</i></p>
 
 ---
 
