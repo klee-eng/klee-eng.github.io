@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FoodTools
-description:  As a Design Engineer at FoodTools, I designed custom tooling for automated portioning equipment, collaborating closely with customers, sales, machinists, and assembly teams to ensure manufacturability and optimal performance. My workflow encompassed 3D CAD modeling in SolidWorks, producing detailed engineering drawings, writing manufacturing plans, generating G-code with Fusion 360 Manufacturing, wiring electrical boards, and performing troubleshooting and final design verification.
+description:  As a Design Engineer at FoodTools, I designed custom tooling for automated portioning equipment, collaborating closely with customers, sales, machinists, and assembly teams to ensure manufacturability and optimal performance. My workflow encompassed 3D CAD modeling in SolidWorks, producing detailed engineering drawings, writing manufacturing plans, generating G-code with Fusion 360 Manufacturing, wiring electrical and pneumatic conrtol boards, and performing troubleshooting and final design verification.
 skills: 
 - SolidWorks
 - Fusion 360
@@ -47,7 +47,7 @@ When I started in this position, a need for new CNC programs was identified afte
 
 ## Electrical Boards
 
-As a Design Engineer, I also had the opportunity to wire electrical boards for various machines. During this process, I gained experience designing PLC boards that combined high- and low-voltage components and practiced interpreting detailed electrical diagrams. This work allowed me to build on the mechatronics experience I developed during my undergraduate studies and continue developing the skills I aim to expand in graduate studies.
+As a Design Engineer, I also had the opportunity to wire electrical boards for various machines. During this process, I gained experience working with PLC boards that combined high- and low-voltage components and practiced interpreting detailed electrical diagrams. This work allowed me to build on the mechatronics experience I developed during my undergraduate studies and continue developing the skills I aim to expand in graduate studies.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/ftElecBoard.jpg" height="auto" width="75%" alt="Hub1">
