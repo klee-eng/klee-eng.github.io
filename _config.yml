@@ -32,7 +32,7 @@ resume-url: ./assets/resume/Kaden_Lee_Resume_SEP_2025.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: kaden-lee-47a538257 # https://www.linkedin.com/in/{your url slug} 
+  linkedin: klee-eng # https://www.linkedin.com/in/{your url slug} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
