@@ -6,7 +6,7 @@ description:  This project was completed for my haptics class, where the final a
 skills: 
 - Rapid Prototyping
 - Arduino
-main-image: 
+main-image: /CCS_ME Capstone 2024_CONRTOLLER.jpg
 ---
 
 ## Terrain Simulator
