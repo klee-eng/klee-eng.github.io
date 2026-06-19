@@ -21,7 +21,3 @@ Designed and built a 5-bar kinesthetic haptic device that simulates variable ter
 
 <p><i>Video Description of Terrain Simulator</i></p>
 
-
-
-
-<p><i>Final robot rat prototype gathering foam blocks.</i></p>
