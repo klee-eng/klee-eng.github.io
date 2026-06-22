@@ -7,7 +7,7 @@ skills:
 - Arduino IDE
 - 3D Printing
 - Fabrication
-- Matlab
+- MATLAB
 - Python
   
 main-image: /terrain_simPic (1).jpeg
@@ -28,12 +28,19 @@ The electrical and control system was built around a Teensy 4.1 microcontroller,
 
 Each motor contained integrated Hall-effect sensors that provided rotor position feedback for motor commutation. To accurately measure the position of the mechanism itself, ATM10 open-center rotary encoders with a resolution of 2048 pulses per revolution were mounted directly to the base joints of the 5-bar linkage. These encoders provided precise measurements of the joint angles, allowing the controller to determine the configuration of the mechanism and compute the corresponding end-effector position.
 
-## Firmware and Virtual Environments
+The control firmware was developed on a Teensy 4.1 microcontroller and executed the real-time control loop responsible for rendering virtual terrain to the user. Joint angle measurements from the base encoders were used to compute the configuration of the 5-bar linkage through forward kinematics, allowing the controller to determine the position of the end effector within the workspace.
 
+Virtual objects were rendered using an impedance control framework. Based on the position of the end effector relative to objects in the virtual environment, the controller computed the desired interaction force that the user should experience. The required torques at each actuated joint was then computed from these forces using the Jacobian transpose of the mechanism.
 
+The desired joint torques were converted into motor current commands and transmitted to the VESC motor controllers via UART. The VESCs then regulated motor current to generate the required torque, allowing the system to accurately reproduce forces associated with virtual terrain features and obstacles.
 
+## Virtual Environments
 
-Designed and built a 5-bar kinesthetic haptic device that simulates variable terrain underfoot for the lower limb, integrating BLDC motors, VESC controllers, incremental encoders, and a Teensy 4.1 microcontroller into a complete electromechanical system. Programmed five static and two dynamic virtual terrain environments using impedance control, allowing the device to render realistic, responsive resistance in real time rather than a fixed motion profile. Used Python to analyze joint torques and tune the system to deliver 15 lb of end-effector resistance across the full workspace. Mechanical components were modeled in Fusion 360 and fabricated through manual milling and 3D printing, taking the project from CAD concept to a working, tested prototype.
+A collection of virtual environments was developed to enable user interaction with the device. Five static environments were implemented: a flat ground surface, a vertical wall, a stationary box obstacle, an inclined ramp, and a mud environment. The mud environment combined a compliant ground model with a layer of linear damping to simulate the resistance encountered when walking through soft terrain.
+
+Two dynamic environments were also developed. The first simulated an impact surface by augmenting the contact force model with a decaying sinusoidal term following contact, producing a transient vibration similar to striking a rigid object. The second environment enabled continuous walking over a repeating sequence of box obstacles, allowing users to experience varying terrain elevations without reaching the limits of the physical workspace.
+
+Together, these environments demonstrated the system's ability to render both static and dynamic terrain features while providing realistic force feedback through the 5-bar linkage mechanism. A demonstration of the device can be viewed in the video below.
 
 <iframe 
   src="https://drive.google.com/file/d/1V9EGMr26LJHOM8wLXtdLaSR-3ou_T9Hb/preview"
