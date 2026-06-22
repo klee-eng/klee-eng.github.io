@@ -13,7 +13,7 @@ skills:
 main-image: /terrain_simPic (1).jpeg
 ---
 
-## Design
+## Mechanical Design
 
 The terrain simulator was designed to generate at least 15 lbf of vertical force at the end effector throughout the desired workspace. A 5-bar pantograph-style linkage was selected as the primary mechanism. To determine the required workspace for simulating a walking motion, a participant's stride length was measured while seated in a chair similar to the one intended for the final device. Based on these measurements, a linkage consisting of a 5 in ground link, 6 in proximal links, and 9.5 in distal links was determined to provide the required workspace of approximately 14 in in length and 5 in in maximum vertical travel while maintaining an elbow-out configuration.
 
@@ -23,6 +23,13 @@ The motors selected for the system were repurposed from an electric skateboard a
 
 
 ## Electrical and Control System
+
+The electrical and control system was built around a Teensy 4.1 microcontroller, which served as the central controller for the terrain simulator. The device was actuated by two BLDC motors driven by independent VESC motor controllers. Desired joint torques were computed by the Teensy and transmitted to each VESC through a UART communication interface. The VESCs then handled the low-level current control and motor commutation required to produce the commanded torques.
+
+Each motor contained integrated Hall-effect sensors that provided rotor position feedback for motor commutation. To accurately measure the position of the mechanism itself, ATM10 open-center rotary encoders with a resolution of 2048 pulses per revolution were mounted directly to the base joints of the 5-bar linkage. These encoders provided precise measurements of the joint angles, allowing the controller to determine the configuration of the mechanism and compute the corresponding end-effector position.
+
+## Firmware and Virtual Environments
+
 
 
 
