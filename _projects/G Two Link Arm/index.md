@@ -18,7 +18,7 @@ main-image: /cropped_front.jpg
 
 ## Design Overview
 
-All mechanical components were designed in Fusion 360 and 3D-printed using PLA. The system integrates an Arduino Uno, a 16-channel servo driver, a USB camera, and two servo motors: a 180° high-torque motor and a 360° high-speed motor with Hall effect sensor feedback. The continuous-rotation servo is controlled via PID through the Arduino to achieve accurate positioning. As a next step, I plan to design a larger base to house and manage the electronics and wiring.
+All mechanical components were designed in Fusion 360 and 3D-printed using PLA. The system integrates an Arduino Uno, a 16-channel servo driver, a USB camera, and two servo motors: a 180° high-torque motor and a 360° high-speed motor with Hall effect sensor feedback. The continuous-rotation servo is controlled via PID control through the Arduino to achieve accurate positioning. As a next step, I plan to design a larger base to house and manage the electronics and wiring.
 
 <div class="image-row">
   <img src="/images-arm/front_active.jpg" alt="Hub1">
