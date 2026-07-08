@@ -47,7 +47,7 @@ When I started in this position, a need for new CNC programs was identified afte
 
 ## Electrical Boards
 
-As a Design Engineer, I also had the opportunity to wire electrical boards for various machines. During this process, I gained experience working with PLC boards that combined high- and low-voltage components and practiced interpreting detailed electrical diagrams. This work allowed me to build on the mechatronics experience I developed during my undergraduate studies and continue developing the skills I aim to expand in graduate studies.
+As a Design Engineer, I also had the opportunity to wire electrical boards for various machines. During this process, I gained experience working with PLC boards that combined high- and low-voltage components and practiced interpreting detailed electrical diagrams. This work allowed me to build on the mechatronics experience I developed during my undergraduate studies and continue developing the skills I aim to expand in my graduate studies.
 
 <div style="display: flex; gap: 10px;">
   <img src="/images-foodtools/ftElecBoard.jpg" height="auto" width="75%" alt="Hub1">
