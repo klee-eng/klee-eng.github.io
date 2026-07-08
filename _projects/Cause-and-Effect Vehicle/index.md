@@ -38,7 +38,7 @@ Because cerebral palsy can present differently from case to case, five control n
 
 ## Physcal Therapist Controls
 
-The supervising physical therapist has two methods of controlling the vehicle: the main controller mounted at the rear and a remote stop button. Both inputs override the child’s controls to ensure safety. The main controller is equipped with a two-axis potentiometer joystick for directional movement, two potentiometers to adjust the speed and duration of the child’s inputs, four mode buttons to define the types of movement permitted, and an emergency stop button. It also houses an Arduino Mega and a custom PCB for system control. The remote stop button, contained in a separate enclosure, activates the vehicle’s stop mode, during which the brakes engage and the motors cease receiving inputs. The remote operates reliably within a range of approximately 10 feet.
+The supervising physical therapist has two methods of controlling the vehicle: the main controller mounted at the rear and a remote stop button. Both inputs override the child’s controls to ensure safety. The main controller is equipped with a two-axis potentiometer joystick for directional movement, two potentiometers to adjust the speed and duration of the child’s inputs, four buttons to define the types of movement permitted, and an emergency stop button. It also houses an Arduino Mega and a custom PCB for system control. The remote stop button, contained in a separate enclosure, activates the vehicle’s stop mode, during which the brakes engage and the motors cease receiving inputs. The remote operates reliably within a range of approximately 10 feet.
 
 <div class="image-row">
   <img src="/images-capstone/NEW_CONTROLLER.jpg" alt="Hub1">
